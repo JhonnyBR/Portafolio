@@ -1,0 +1,3 @@
+export const profile = { name: 'Jonny Beltran', role: 'Ingeniero de Sistemas · Desarrollador de Software', statement: 'Construyendo software. Resolviendo problemas. Evolucionando con la tecnología.', linkedin: 'https://linkedin.com/in/jonny-b' };
+export const skills = ['React','Next.js','TypeScript','JavaScript','Angular','Node.js','Laravel','Python','SQL','PostgreSQL','SQL Server','Docker','Kubernetes','Linux','Jenkins','SonarQube','CI/CD','APIs','Microservicios','Automatización'];
+export const nav = [{label:'Inicio',to:'/'},{label:'Sobre mí',to:'/about'},{label:'Experiencia',to:'/experience'},{label:'Inteligencia Artificial',to:'/artificial-intelligence'}];
